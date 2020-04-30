@@ -1,19 +1,19 @@
 {
-  "name": "html-loader",
+  "name": "@bestminr/html-loader",
   "version": "1.1.0",
-  "description": "Html loader module for webpack",
+  "description": "Html loader module for webpack, customized for Bestminr projects",
   "license": "MIT",
-  "repository": "webpack-contrib/html-loader",
-  "author": "Tobias Koppers @sokra",
-  "homepage": "https://github.com/webpack-contrib/html-loader",
-  "bugs": "https://github.com/webpack-contrib/html-loader/issues",
+  "repository": "bestminr/html-loader",
+  "author": "Chen Min @hikerpig",
+  "homepage": "https://github.com/bestminr/html-loader",
+  "bugs": "https://github.com/bestminr/html-loader/issues",
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/webpack"
   },
   "main": "dist/cjs.js",
   "engines": {
-    "node": ">= 10.13.0"
+    "node": ">= 8.0.0"
   },
   "scripts": {
     "start": "npm run build -- -w",

@@ -1,9 +1,4 @@
-<div align="center">
-  <img width="200" height="200" src="https://worldvectorlogo.com/logos/html5.svg" alt="html-loader">
-  <a href="https://github.com/webpack/webpack">
-    <img width="200" height="200" vspace="" hspace="25" src="https://webpack.js.org/assets/icon-square-big.svg" alt="webpack">
-  </a>
-</div>
+## NOTE: This is a fork of the official webpack-contrib/html-loader, with node engine requirement downgrade to "node >= 8.0.0"
 
 [![npm][npm]][npm-url]
 [![node][node]][node-url]
