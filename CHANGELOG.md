@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/bestminr/html-loader/compare/v1.1.0...v1.1.1) (2020-05-06)
+
+
+### Features
+
+* change package name to `@bestminr/html-loader` ([7282f5d](https://github.com/bestminr/html-loader/commit/7282f5d))
+
 ## [1.1.0](https://github.com/webpack-contrib/html-loader/compare/v1.0.0...v1.1.0) (2020-04-02)
 
 
